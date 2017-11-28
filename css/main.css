@@ -1,0 +1,121 @@
+body{
+	font-family: 'Nunito', sans-serif;
+}
+
+.brand{
+	margin-left: 30%;
+	padding: 2.5%;
+	font-weight: 800;
+	color: #2ECCFA;
+	font-size: 1.5em;
+}
+
+.indexButtom{
+	display: none;
+}
+
+li{
+	float: right;
+	list-style: none;
+	padding: 4%;
+}
+
+a{
+	text-decoration: none;
+	color: #424242;
+	font-weight: 800;
+}
+
+ul{
+	text-align: center;
+	margin-right: 20%;
+}
+
+h5{
+	text-align: right;
+	font-weight: 300;
+	color: #ffffff;
+	padding: 1%;
+}
+
+h2{
+	color: #2ECCFA;
+}
+
+#imgHeader{
+	background-image: url(../assets/fondo.png);
+	background-position: center;
+	object-fit: cover;
+	height: 19em;
+}
+/* Fin Header*/
+
+#firstSection{
+	padding: 2% 5%;
+	color: #424242;
+}
+
+.about, .contact{
+	padding: 2% 5%;
+}
+
+.bottom{
+	display: inline-block;
+	background-color: #2ECCFA;
+	color: #ffffff;
+	font-weight: 700;
+	margin-top: 1.5%;
+	padding: 1.5%;
+	border-radius: 0.5em;
+}
+
+.fa-angle-double-right{
+	vertical-align: -0.1em;
+}
+
+/* Fin Section1*/
+
+h4{
+	color: #2ECCFA;
+}
+
+#secondSection{
+	padding: 0 5% 0 5%;
+	margin: 0 4%;
+	color: #424242;
+}
+
+.photo{
+	width: 100%;
+	padding: 2%;
+}
+
+.card{
+	padding: 2%;
+}
+
+.bottomCard{
+	text-align: center;
+	padding: 1% 0 15% 0;
+}
+
+.bottom2{
+	display: inline-block;
+	padding: 2.5%;
+	background-color: #2ECCFA;
+	color: #ffffff;
+	font-weight: 600;
+	border-radius: 0.5em;
+}
+
+footer{
+	background-color: #2ECCFA;
+	color: #ffffff;
+	text-align: center;
+	padding: 20px 0;
+	font-weight: 300;
+}
+
+.textFooter{
+	color: #ffffff
+}

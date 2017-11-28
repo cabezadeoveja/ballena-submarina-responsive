@@ -1,0 +1,45 @@
+@media (max-width: 800px){
+	[class*="col-"]{
+		width: 100%;
+	}
+
+	header{
+		width: 100%;
+	}
+}	
+
+@media (max-width: 799px){
+		[class*="col-"]{
+		width: 100%;
+	}
+
+	ul{
+		display: none;
+	}
+
+	header{
+		width: 100%;
+	}
+
+	.brand{
+		text-align: center;
+		padding: 2% 0 0 0;
+		margin: 0;
+		font-size: 2em;
+	}
+
+	.indexButtom{
+		display: inline-block;
+		color: #2ECCFA;
+		font-size: 1.5em;
+		text-align: center;
+		padding: 1% 0 2% 0;
+	}
+
+	k{
+		display: inline-block;
+		padding: 2%;
+		border: 1.5px solid #2ECCFA;
+		border-radius: 0.3em;
+	}
+}
